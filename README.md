@@ -8,6 +8,7 @@
 | ├─img
 │ │  └─bacteria1.jpg
 │ ├─readme.md
+│ ├─ctf_simulation_v0.ipynb
 │ └─ctf_simulation.ipynb
 └─readme.md
 
