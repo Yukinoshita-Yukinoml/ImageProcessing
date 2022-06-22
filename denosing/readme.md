@@ -1,4 +1,14 @@
-Following are some repos that would be referrenced:
+### Image Denoising
+
+In this repo, I'll try various methods to do the image denoising like VAEs, GANs and Transformers, etc.
+
+###### Introduction 
+
+
+
+###### Reference
+
+Following are some repos that would be referenced:
 
 * [PNGAN](https://github.com/caiyuanhao1998/PNGAN)
 * [MIRNetv2](https://github.com/swz30/MIRNetv2)
